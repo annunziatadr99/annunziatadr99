@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey there! I am Dario Annunziata 😊
 
-<!--
-**annunziatadr99/annunziatadr99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Developer**
 
-Here are some ideas to get you started:
+Based in Italy  
+Currently looking for opportunities as a Backend Developer 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn Profile](https://www.linkedin.com/in/dario-annunziata)
+
+---
+
+## Knowledge and Tools
+
+### Frontend:
+- HTML
+- CSS
+- JavaScript
+- React
+- TypeScript
+
+### Backend:
+- Node.js
+- PostgreSQL
+- Java
+- Spring Boot
+
+---
+
+## Pinned Repositories
+Here are some of the projects I have been working on:
+- [CasaFinder](https://github.com/dario-annunziata/CasaFinder) - Full Stack Application
