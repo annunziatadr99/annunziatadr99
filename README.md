@@ -32,4 +32,4 @@ Currently looking for opportunities as a Backend Developer 🚀
 
 ## Pinned Repositories
 Here are some of the projects I have been working on:
-- [CasaFinder]([https://github.com/dario-annunziata/CasaFinder](https://github.com/annunziatadr99/CasaFinderBackEnd.git)) - Full Stack Application
+- [CasaFinder](https://github.com/annunziatadr99/CasaFinderBackEnd.git) - Full Stack Application
