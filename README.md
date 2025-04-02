@@ -18,13 +18,14 @@ Currently looking for opportunities as a Backend Developer 🚀
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat-square)
+![Vite.js](https://img.shields.io/badge/-Vite.js-646CFF?logo=vite&logoColor=white&style=flat-square)
+
 
 ## Backend
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Vital.js](https://img.shields.io/badge/-Vital.js-FF5733?logo=vital.js&logoColor=white&style=flat-square)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 
 ---
