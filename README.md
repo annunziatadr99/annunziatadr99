@@ -1,6 +1,6 @@
 # Hey there! I am Dario Annunziata 😊
 
-**Web Developer**
+**Web Full-Stack Developer**
 
 Based in Italy  
 Currently looking for opportunities as a Backend Developer 🚀  
